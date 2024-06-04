@@ -1,1 +1,1 @@
-##Shidong Wang's Homepage: https://shidong-wang.github.io/
+## Shidong Wang's [Homepage](https://shidong-wang.github.io)
