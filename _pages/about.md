@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I’m Shidong Wang, a PhD Student at the [Visualization and MultiMedia Lab](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of <a href="https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html" target="_blank">Prof. Dr. Renato Pajarola</a>. My research interests include human-centric AI and computational design.
+I’m Shidong Wang, a PhD Student at the [Visualization and MultiMedia Lab (VMML)](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of [Prof. Dr. Renato Pajarola](https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html). My research interests include human-centric AI and computational design.
 I received my master's degree in Computer Technology from [Shandong University (SDU)](https://www.sdu.edu.cn/), and was a visiting student in [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).
 
 <!-- # 🔥 News
