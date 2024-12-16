@@ -36,9 +36,7 @@ I received my master's degree in Computer Technology from [Shandong University (
 
   [Understanding the origins of urban particulate matter pollution based on high-density vehicle-based sensor monitoring and big data analysis](https://doi.org/10.1016/j.uclim.2024.102241)
 
-  Yiheng Liang, Xiaohua Wang, Zhongzhen Dong, Xinfeng Wang*,
-  
-  **Shidong Wang**, Shuchun Si, Jing Wang, Hai-Ying Liu, Qingzhu Zhang, and Qiao Wang
+  Yiheng Liang, Xiaohua Wang, Zhongzhen Dong, Xinfeng Wang*, **Shidong Wang**, Shuchun Si, Jing Wang, Hai-Ying Liu, Qingzhu Zhang, and Qiao Wang
 
   Urban Climate, 59(102241): 1-13, 2025. (**UCLIM**)
 
