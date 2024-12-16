@@ -30,6 +30,24 @@ I received my master's degree in Computer Technology from [Shandong University (
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <div><div class="badge">UCLIM</div><img src='projects/rizhao_uclim24/rizhao_uclim24.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Understanding the origins of urban particulate matter pollution based on high-density vehicle-based sensor monitoring and big data analysis](https://doi.org/10.1016/j.uclim.2024.102241)
+
+  Yiheng Liang, Xiaohua Wang, Zhongzhen Dong, Xinfeng Wang*, 
+  **Shidong Wang**, Shuchun Si, Jing Wang, Hai-Ying Liu, Qingzhu Zhang, and Qiao Wang
+
+  Urban Climate, 59(102241): 1-13, 2025. (**UCLIM**)
+
+  [**Paper**](https://doi.org/10.1016/j.uclim.2024.102241)
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div><div class="badge">TVCG</div><img src='projects/actfloorgan_tvcg23/actfloorgan_tvcg23.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -47,22 +65,7 @@ I received my master's degree in Computer Technology from [Shandong University (
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><div class="badge">UCLIM</div><img src='projects/rizhao_uclim24/rizhao_uclim24.jpg' alt="sym" width="100%"></div>
-  </div>
-  <div class='paper-box-text' markdown="1">
 
-  [Understanding the origins of urban particulate matter pollution based on high-density vehicle-based sensor monitoring and big data analysis](https://doi.org/10.1016/j.uclim.2024.102241)
-
-  Yiheng Liang, Xiaohua Wang, Zhongzhen Dong, Xinfeng Wang*, **Shidong Wang**, Shuchun Si, Jing Wang, Hai-Ying Liu, Qingzhu Zhang, and Qiao Wang
-
-  Urban Climate, 59(102241): 1-13, 2025. (**UCLIM**)
-
-  [**Paper**](https://doi.org/10.1016/j.uclim.2024.102241)
-
-  </div>
-</div>
 
 
 <!-- 
