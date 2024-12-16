@@ -30,7 +30,7 @@ I received my master's degree in Computer Technology from [Shandong University (
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">UCLIM</div><img src='projects/rizhao_uclim24/rizhao_uclim24.png' alt="sym" width="100%"></div>
+    <div><div class="badge">UCLIM</div><img src='projects/rizhao_uclim21/rizhao_uclim21.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
