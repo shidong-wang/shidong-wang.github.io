@@ -30,6 +30,23 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <div><div class="badge">TVCG</div><img src='projects/diffplanner_tvcg25/diffplanner_tvcg25.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Eliminating Rasterization: Direct Vector Floor Plan Generation with DiffPlanner](https://arxiv.org/abs/2508.13738)
+
+  **Shidong Wang*** and Renato Pajarola
+
+  IEEE Transactions on Visualization and Computer Graphics, xx(x): 1-17, 2025.(**TVCG**)
+
+  [**Paper**](https://arxiv.org/pdf/2508.13738) \| [**Dataset**]() \| [**Code**]()
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div><div class="badge">UCLIM</div><img src='projects/rizhao_uclim24/rizhao_uclim24.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
