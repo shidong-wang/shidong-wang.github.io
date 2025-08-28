@@ -20,6 +20,7 @@ redirect_from:
 # 🧍‍♂️ Biography
 
 I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML)](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of [Prof. Dr. Renato Pajarola](https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html). My research lies at the intersection of artificial intelligence (AI) and computer graphics, with a focus on deep generative modeling and computational design. I am particularly interested in controllable generative models for layout design problems such as floor plan generation and vector graphics synthesis.
+
 <!--I received my master's degree in Computer Technology from [Shandong University (SDU)](https://www.sdu.edu.cn/), and was a visiting student in [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).-->
 
 <!-- # 🔥 News
