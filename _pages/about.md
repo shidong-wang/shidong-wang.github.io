@@ -34,7 +34,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [Eliminating Rasterization: Direct Vector Floor Plan Generation with DiffPlanner](https://arxiv.org/abs/2508.13738)
+  [Eliminating Rasterization: Direct Vector Floor Plan Generation with DiffPlanner](https://arxiv.org/pdf/2508.13738)
 
   **Shidong Wang*** and Renato Pajarola
 
