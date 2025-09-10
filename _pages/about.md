@@ -39,9 +39,26 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
   **Shidong Wang*** and Renato Pajarola
 
-  IEEE Transactions on Visualization and Computer Graphics, xx(x): 1-17, 2025.(**TVCG**)
+  IEEE Transactions on Visualization and Computer Graphics, 31(10): 7906-7922, 2025.(**TVCG**)
 
   [**Paper**](https://arxiv.org/pdf/2508.13738) \| [**Dataset**]() \| [**Code**]()
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge">COMIND</div><img src='projects\clodreco_comind25\CLOD-ReCo.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [A controllable generative design framework for residential communities with multi-scale architectural representations](https://doi.org/10.1016/j.compind.2025.104367)
+
+  **Shidong Wang*** and Renato Pajarola
+
+  Computers in Industry, 173(104367): 1-11, 2025. (**COMIND**)
+
+  [**Paper**](https://doi.org/10.1016/j.compind.2025.104367) \| [**Dataset**]() \| [**Code**]()
 
   </div>
 </div>
