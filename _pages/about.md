@@ -29,9 +29,10 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
 # 📝 Publications 
 *: Corresponding Author
+
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">TVCG</div><img src='projects/ce2eplan_tvcg26/ce2eplan_tvcg26.png' alt="sym" width="100%"></div>
+    <div><div class="badge">TVCG</div><img src='projects/ce2eplan_tvcg26/ce2eplan_tvcg26_overview.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
