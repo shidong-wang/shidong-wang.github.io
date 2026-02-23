@@ -31,6 +31,23 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
 <div class='paper-box'>
   <div class='paper-box-image'>
+    <div><div class="badge">TVCG</div><img src='projects/ce2eplan_tvcg26/ce2eplan_tvcg26.png' alt="sym" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+  [Directly from Alpha to Omega: Controllable End-to-End Vector Floor Plan Generation](https://doi.org/10.1109/TVCG.2026.3665422)
+
+  **Shidong Wang*** and Renato Pajarola
+
+  IEEE Transactions on Visualization and Computer Graphics, xx(xx): 1-15, 2026.(**TVCG**)
+
+  [**Paper**](https://doi.org/10.1109/TVCG.2026.3665422) \| [**Dataset**]() \| [**Code**]()
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
     <div><div class="badge">TVCG</div><img src='projects/diffplanner_tvcg25/diffplanner_tvcg25.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
