@@ -42,7 +42,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
   IEEE Transactions on Visualization and Computer Graphics, xx(xx): 1-15, 2026.(**TVCG**)
 
-  [**Paper**](https://doi.org/10.1109/TVCG.2026.3665422) \| [**Dataset**]() \| [**Code**]()
+  [**Paper**](https://doi.org/10.1109/TVCG.2026.3665422) \| [**Dataset**](https://github.com/shidong-wang/DiffPlanner/releases/download/dataset/dataset.zip) \| [**Code**](https://github.com/shidong-wang/CE2EPlan)
 
   </div>
 </div>
@@ -59,7 +59,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
   IEEE Transactions on Visualization and Computer Graphics, 31(10): 7906-7922, 2025.(**TVCG**)
 
-  [**Paper**](https://arxiv.org/pdf/2508.13738) \| [**Dataset**]() \| [**Code**]()
+  [**Paper**](https://arxiv.org/pdf/2508.13738) \| [**Dataset**](https://github.com/shidong-wang/DiffPlanner/releases/download/dataset/dataset.zip) \| [**Code**](https://github.com/shidong-wang/DiffPlanner)
 
   </div>
 </div>
@@ -76,7 +76,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
   Computers in Industry, 173(104367): 1-11, 2025. (**COMIND**)
 
-  [**Paper**](https://doi.org/10.1016/j.compind.2025.104367) \| [**Dataset**]() \| [**Code**]()
+  [**Paper**](https://doi.org/10.1016/j.compind.2025.104367) \| [**Dataset**](https://github.com/shidong-wang/CLOD-ReCo/releases/download/dataset/dataset.zip) \| [**Code**](https://github.com/shidong-wang/CLOD-ReCo)
 
   </div>
 </div>
@@ -110,7 +110,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
   IEEE Transactions on Visualization and Computer Graphics, 29(3): 1610-1624, 2023. (**TVCG**)
 
-  [**Paper**](https://arxiv.org/pdf/2111.03545) \| [**Dataset**](https://drive.google.com/file/d/1tCtRZ92RFmX3YR-Y1Wky71QIOmIC7jz0/view?usp=sharing) \| [**Code**](https://github.com/shidong-wang/ActFloor-GAN)
+  [**Paper**](https://arxiv.org/pdf/2111.03545) \| [**Dataset**](https://github.com/shidong-wang/ActFloor-GAN/releases/download/dataset/dataset_4c_ActFloorGAN.zip) \| [**Code**](https://github.com/shidong-wang/ActFloor-GAN)
 
   </div>
 </div>
