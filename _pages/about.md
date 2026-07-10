@@ -40,7 +40,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 
   **Shidong Wang*** and Renato Pajarola
 
-  IEEE Transactions on Visualization and Computer Graphics, xx(xx): 1-15, 2026.(**TVCG**)
+  IEEE Transactions on Visualization and Computer Graphics, 32(7): 5248-5261, 2026.(**TVCG**)
 
   [**Paper**](https://doi.org/10.1109/TVCG.2026.3665422) \| [**Dataset**](https://github.com/shidong-wang/DiffPlanner/releases/download/dataset/dataset.zip) \| [**Code**](https://github.com/shidong-wang/CE2EPlan)
 
