@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML)](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of [Prof. Dr. Renato Pajarola](https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html). My research lies at the intersection of artificial intelligence (AI) and computer graphics, with a focus on deep generative modeling and computational design. I am particularly interested in controllable generative models for layout design problems such as floor plan generation and vector graphics synthesis.
+I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VMML)](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of [Prof. Dr. Renato Pajarola](https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html). My research lies at the intersection of artificial intelligence (AI) and computer graphics, with a focus on deep generative modeling and computational design. I am particularly interested in controllable generative models for layout design problems such as floor plan generation and vector graphics synthesis.
 
 <!--I received my master's degree in Computer Technology from [Shandong University (SDU)](https://www.sdu.edu.cn/), and was a visiting student in [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).-->
 
@@ -27,7 +27,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
 - *2022.02*: &nbsp;🎉🎉 xxx. 
 - *2022.02*: &nbsp;🎉🎉 xxx.  -->
 
-# 📝 Publications 
+# 📝 Selected Publications
 *: Corresponding Author
 
 <div class='paper-box'>
@@ -70,7 +70,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
   </div>
   <div class='paper-box-text' markdown="1">
 
-  [A controllable generative design framework for residential communities with multi-scale architectural representations](https://doi.org/10.1016/j.compind.2025.104367)
+  [A Controllable Generative Design Framework for Residential Communities with Multi-scale Architectural Representations](https://doi.org/10.1016/j.compind.2025.104367)
 
   **Shidong Wang*** and Renato Pajarola
 
@@ -81,7 +81,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
   </div>
 </div>
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge">UCLIM</div><img src='projects/rizhao_uclim24/rizhao_uclim24.png' alt="sym" width="100%"></div>
   </div>
@@ -96,7 +96,7 @@ I’m Shidong Wang, a PhD Student at the [Visualization and Multimedia Lab (VMML
   [**Paper**](https://doi.org/10.1016/j.uclim.2024.102241)
 
   </div>
-</div>
+</div> -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
