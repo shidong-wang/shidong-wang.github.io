@@ -40,7 +40,7 @@ I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VM
 
   **Shidong Wang*** and Renato Pajarola
 
-  IEEE Transactions on Visualization and Computer Graphics, 32(7): 5248-5261, 2026.(**TVCG**)
+  IEEE Transactions on Visualization and Computer Graphics, 32(7): 5248-5261, 2026.
 
   [**Paper**](https://doi.org/10.1109/TVCG.2026.3665422) \| [**Dataset**](https://github.com/shidong-wang/DiffPlanner/releases/download/dataset/dataset.zip) \| [**Code**](https://github.com/shidong-wang/CE2EPlan)
 
@@ -57,7 +57,7 @@ I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VM
 
   **Shidong Wang*** and Renato Pajarola
 
-  IEEE Transactions on Visualization and Computer Graphics, 31(10): 7906-7922, 2025.(**TVCG**)
+  IEEE Transactions on Visualization and Computer Graphics, 31(10): 7906-7922, 2025.
 
   [**Paper**](https://arxiv.org/pdf/2508.13738) \| [**Dataset**](https://github.com/shidong-wang/DiffPlanner/releases/download/dataset/dataset.zip) \| [**Code**](https://github.com/shidong-wang/DiffPlanner)
 
@@ -74,7 +74,7 @@ I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VM
 
   **Shidong Wang*** and Renato Pajarola
 
-  Computers in Industry, 173(104367): 1-11, 2025. (**COMIND**)
+  Computers in Industry, 173(104367): 1-11, 2025.
 
   [**Paper**](https://doi.org/10.1016/j.compind.2025.104367) \| [**Dataset**](https://github.com/shidong-wang/CLOD-ReCo/releases/download/dataset/dataset.zip) \| [**Code**](https://github.com/shidong-wang/CLOD-ReCo)
 
@@ -108,7 +108,7 @@ I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VM
 
   **Shidong Wang**, Wei Zeng*, Xi Chen, Yu Ye, Yu Qiao, and Chi-Wing Fu
 
-  IEEE Transactions on Visualization and Computer Graphics, 29(3): 1610-1624, 2023. (**TVCG**)
+  IEEE Transactions on Visualization and Computer Graphics, 29(3): 1610-1624, 2023.
 
   [**Paper**](https://arxiv.org/pdf/2111.03545) \| [**Dataset**](https://github.com/shidong-wang/ActFloor-GAN/releases/download/dataset/dataset_4c_ActFloorGAN.zip) \| [**Code**](https://github.com/shidong-wang/ActFloor-GAN)
 
