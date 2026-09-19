@@ -23,6 +23,7 @@ redirect_from:
 
 I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VMML)](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of [Prof. Dr. Renato Pajarola](https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html). My research interests include generative AI, human-AI interaction, and computational design, with a particular focus on controllable generative modeling for structured layout design tasks.
 
+
 <!--I received my master's degree in Computer Technology from [Shandong University (SDU)](https://www.sdu.edu.cn/), and was a visiting student in [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).-->
 
 <!-- # 🔥 News
