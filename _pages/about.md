@@ -19,7 +19,9 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VMML)](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of [Prof. Dr. Renato Pajarola](https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html). My research lies at the intersection of artificial intelligence (AI) and computer graphics, with a focus on deep generative modeling and computational design. I am particularly interested in controllable generative models for layout design problems such as floor plan generation and vector graphics synthesis.
+<!-- I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VMML)](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of [Prof. Dr. Renato Pajarola](https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html). My research lies at the intersection of artificial intelligence (AI) and computer graphics, with a focus on deep generative modeling and computational design. I am particularly interested in controllable generative models for layout design problems such as floor plan generation and vector graphics synthesis. -->
+
+I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VMML)](https://www.ifi.uzh.ch/en/vmml.html), [Department of Informatics](https://www.ifi.uzh.ch/en.html), [University of Zurich (UZH)](https://www.uzh.ch/en.html), under the supervision of [Prof. Dr. Renato Pajarola](https://www.ifi.uzh.ch/en/vmml/people/current-staff/pajarola.html). My research interests include generative AI, human-AI interaction, and computational design, with a particular focus on controllable generative modeling for structured layout design tasks.
 
 <!--I received my master's degree in Computer Technology from [Shandong University (SDU)](https://www.sdu.edu.cn/), and was a visiting student in [Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (CAS)](https://www.siat.ac.cn/).-->
 
@@ -49,7 +51,7 @@ I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VM
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">TVCG</div><img src='projects/diffplanner_tvcg25/diffplanner_tvcg25.png' alt="sym" width="100%"></div>
+    <div><div class="badge">TVCG</div><img src='projects/diffplanner_tvcg25/diffplanner_tvcg25_2.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
@@ -66,7 +68,7 @@ I’m Shidong Wang, a PhD Candidate at the [Visualization and Multimedia Lab (VM
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div><div class="badge">COMIND</div><img src='projects\clodreco_comind25\CLOD-ReCo.png' alt="sym" width="100%"></div>
+    <div><div class="badge">COMIND</div><img src='projects\clodreco_comind25\CLOD-ReCo_2.png' alt="sym" width="100%"></div>
   </div>
   <div class='paper-box-text' markdown="1">
 
